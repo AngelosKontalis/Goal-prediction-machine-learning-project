@@ -17,7 +17,8 @@ This can be useful for **sports analytics, betting strategies, and match outcome
 - **Performance Evaluation**: Analyzing model accuracy and metrics
 
 ## 🛠 Data Scraping & Merging
-The dataset was created by scraping data from the web and merging multiple CSV files.
+
+The Python program uses Selenium to scrape data from a webpage containing information about football matches in the Super League Greece. The goal is to extract match details (e.g., week, date, time, home team, score, and away team) and save the data into a CSV file for further analysis. Throughout the execution, the program prints status messages indicating whether the page loaded successfully, how many tables were found, whether the correct table was located, and if the CSV file was saved successfully.
 
 ## 🛠 Installation
 1. Clone the repository:
