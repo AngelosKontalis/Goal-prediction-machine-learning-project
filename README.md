@@ -23,8 +23,8 @@ The Python program uses Selenium to scrape data from a webpage containing inform
 ## 🛠 Installation
 1. Clone the repository:
 
-   git clone https://github.com/AngelosKontalis/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/AngelosKontalis/Goal-prediction-machine-learning-project
+   cd Goal-prediction-machine-learning-project
 
 ## 🚀 Usage
 1. Open the **Google Colab Notebook**: 
